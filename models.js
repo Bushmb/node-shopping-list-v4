@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 const uuid = require('uuid');
 
 // this module provides volatile storage, using a `ShoppingList`
